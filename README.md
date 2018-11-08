@@ -14,5 +14,5 @@ the C++ built-in *std::sort*.
 ### Algorithm running times (in seconds) using Intel Core i7-7700U with input size 10000000:  
 
 **parallel quicksort:**  ~1.0s  
-**parallel mergesort:** ~1.9s  
+**parallel mergesort:** ~1.4s  
 **std::sort:** ~3.2s   
